@@ -1,0 +1,27 @@
+Asistan'ı kullanabilmeniz için tanımlı komutlar: 
+
+
+> 'Merhaba', 'Naber' komutunu vererek selamlaşabilirsiniz.
+> 'Saat kaç' komutunu vererek saat bilgisi alabilirsiniz.
+> 'Mail at' komutunu vererek mail atabilirsiniz.
+> 'kendini kapat' komutunu vererek Asistan'ı kapatabilirsiniz.
+
+> 'Wikipedia' yazarak Wikipedia'da arama yapabilirsiniz.
+> 'hava durumu' yazarak hava durumu bilgisi alabilirsiniz.
+Not: hava durumu için konum bilgilerini ingilizce yazmanız gerekmektedir.
+> 'QR kod oluştur' yazarak qr kod oluşturabilirsiniz.
+> 'bana bir dizi öner' yazarak dizi önerisi alabilirsiniz.
+
+> 'author' yazarak author bilgisi alabilirsin.
+> 'tarayıcıda ara' yazarak tarayıcınızda arama yapabilirsiniz.
+> 'bana bir kitap öner' komutunu vererek kitap önerisi alabilirsiniz.
+> 'not al' komutunu vererek notlar alabilirsiniz.
+
+> 'notları göster' veya 'notları getir' komutunu vererek aldığınız notları görebilirsiniz.
+> 'papağan' komutunu yazarak dediklerinizi tekrarlatabilirsiniz.
+> 'sürekli tekrarla' komutunu yazarak istediğiniz şeyi sürekli olarak tekrarlatabilirsiniz.
+
+
+
+
+# Enes Kasapoğlu | https://kilavuzkod.blogspot.com
