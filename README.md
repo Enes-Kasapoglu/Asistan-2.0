@@ -4,13 +4,13 @@ Yüklemeniz gereken bazı kütüphaneler var bunlar için uçbirim'e:
 
   $ pip/pip3 install feedparser
   <br>$ pip/pip3 install wikipedia
-  $ pip/pip3 install pyqrcode
-  $ pip/pip3 install sqlite3
-  $ pip/pip3 install getpass
-  $ pip/pip3 install selenium
-  $ pip/pip3 install tkinter
-  $ pip/pip3 install playsound
-  $ pip/pip3 install speech_recognition
+  <br>$ pip/pip3 install pyqrcode
+  <br>$ pip/pip3 install sqlite3
+  <br>$ pip/pip3 install getpass
+  <br>$ pip/pip3 install selenium
+  <br>$ pip/pip3 install tkinter
+  <br>$ pip/pip3 install playsound
+  <br>$ pip/pip3 install speech_recognition
   
 yazmanız yeterli olacaktır.
 
