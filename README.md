@@ -3,8 +3,7 @@
 Yüklemeniz gereken bazı kütüphaneler var bunlar için uçbirim'e:
 
   $ pip/pip3 install feedparser
-  
-  $ pip/pip3 install wikipedia
+  \n$ pip/pip3 install wikipedia
   $ pip/pip3 install pyqrcode
   $ pip/pip3 install sqlite3
   $ pip/pip3 install getpass
