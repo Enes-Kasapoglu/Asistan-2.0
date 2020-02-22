@@ -14,6 +14,10 @@ Yüklemeniz gereken bazı kütüphaneler var bunlar için uçbirim'e:
   
 yazmanız yeterli olacaktır.
 
+Çalıştırmanız gereken dosya 'main.py' dır.
+
+Uyarı: Asistan'ı Python3 ile çalıştırmanızı tavsiye ederim.
+
 İlk önce 'Bilgilerimi kaydet' yazarak kendi bilgilerinizi tanıtmanız gerekmektedir.
 Ardından 'Asistan bilgilerini kaydet' yazarak asistan için tanımlamak istediğiniz bilgileri yazınız
 
